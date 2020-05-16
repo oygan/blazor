@@ -4,6 +4,10 @@ html, body {
     font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
 }
 
+p, input, button, label {
+    margin-bottom: 6px;
+}
+
 a, .btn-link {
     color: #0366d6;
 }
