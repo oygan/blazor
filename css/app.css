@@ -6,6 +6,20 @@ html, body {
 
 p, input, button, label {
     margin-bottom: 6px;
+    margin-right: 6px;
+}
+
+textarea.long-text {
+    width: 100%;
+    height:150px;
+}
+
+tr.selected-row {
+    background-color: lightcyan;
+}
+
+tr.regular-row {
+    background-color: white;
 }
 
 a, .btn-link {
